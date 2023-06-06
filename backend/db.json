@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Tranquila igual a um furacão!",
+      "autoria": "Lili Cardoso",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Me esqueça!",
+      "autoria": "Lili Cardoso",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Viva la vida!",
+      "autoria": "Lili Cardoso",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Correr ou Rir!",
+      "autoria": "Lili Cardoso",
+      "modelo": "modelo2"
+    }
+  ]
+}
